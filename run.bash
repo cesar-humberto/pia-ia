@@ -1,0 +1,2 @@
+docker build -t blackboximage .
+docker run -v C:/Users/cesar/Desktop/IA/src:/problems:Z --name myBlackBox --rm blackboximage sh -c "/blackbox -maxauto 100 -o /problems/domain.pddl -f /problems/probBlocks.pddl -solver -maxsec 0 graphplan | tee /problems/outputs/FT$(date -u +"%H%M%S").log"
