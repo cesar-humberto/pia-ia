@@ -3,8 +3,6 @@
 Universidad Autónoma de Nuevo León \
 Facultad de Ciencias Físico Matemáticas
 
-Cesar Humberto Gavilan Hernandez - 1990142
-
 Entrega de proyecto integrador, en este proyecto se aplican los conceptos vistos en clase para la creación de un planificador de un tema libre.
 
 ## Tema elegido (Empresa de mudanza)
